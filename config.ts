@@ -22,5 +22,5 @@ export default {
 	CrossEmoji: "❌",
 	ModMailAutomaticMessage: "Hello, and thank you for contacting bundle. today! So we can help you as fast as possible, please let us know how we can help you.",
 	TickEmoji: "✅",
-	Token: "YourTokenHere",
+	Token: "process.env.DISCORD_TOKEN",
 };
